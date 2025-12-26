@@ -5,7 +5,7 @@ TITLE = ('Кинопоиск. Онлайн кинотеатр. '
 
 # API  тесты
 BASE_URL = "https://api.kinopoisk.dev/v1.4"
-API_KEY = "W7SSTQ7-PJWMEC4-N3JWKK0-6E913BW"
+API_KEY = "PQN92YB-YNNM8WF-PZAQ11R-KPH6TNM"
 
 # Тестовые данные
 VALID_SEARCHES = [
