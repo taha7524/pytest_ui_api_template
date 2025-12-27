@@ -2,7 +2,7 @@ import requests
 from config import BASE_URL, API_KEY
 
 
-class APIClient:
+class ApiClass:
     def __init__(self):
         self.base_url = BASE_URL
         self.headers = {'X-API-KEY': API_KEY} if API_KEY else {}
